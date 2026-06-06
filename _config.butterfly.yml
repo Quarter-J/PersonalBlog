@@ -22,6 +22,7 @@ menu:
   Archives: /archives/ || fas fa-archive
   Categories: /categories/ || fas fa-folder
   Tags: /tags/ || fas fa-tags
+  Demo: /demo/ || fas fa-image
   About: /about/ || fas fa-user
 
 # --------------------------------------
